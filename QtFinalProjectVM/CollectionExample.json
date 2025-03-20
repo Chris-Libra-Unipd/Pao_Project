@@ -1,0 +1,97 @@
+{
+    "items": [
+        {
+            "cast": [
+                "Matthew McConaughey",
+                "Anne Hathaway",
+                "Jessica Chastain",
+                "Micheal Caine",
+                "John Lithgow"
+            ],
+            "classType": "movie",
+            "description": "Una piaga sta uccidendo i raccolti della Terra, da diversi decenni l'umanità è in crisi da cibo e quasi tutti sono diventati agricoltori per supplire a queste esigenze. La scienza è ormai dimenticata e anche ai bambini viene insegnato che l'uomo non è mai andato sulla Luna, si trattava solo di propaganda. L'ex astronauta Cooper, mai andato nello spazio e costretto a diventare agricoltore, scopre grazie all'intuito della figlia che la NASA è ancora attiva in gran segreto, che il pianeta Terra non si salverà, che è comparso un warmhole vicino Saturno in grado di condurli in altre galassie e che qualcuno deve andare lì a cercare l'esito di tre diverse missioni partite anni fa. Forse una di quelle tre ha scoperto un pianeta buono per trasferire la razza umana e in quel caso è già pronto un piano di evacuazione. Andare e tornare è l'unica maniera che Cooper ha di dare un futuro ai propri figli.",
+            "director": "Christopher Nolan",
+            "duration": "02:49:00",
+            "genre": "Fantascienza",
+            "imagePath": "media/interstellar.jpg",
+            "insertionDate": "2025-02-25",
+            "mediaPath": "media/interstellarTrailer.mp4",
+            "publicationDate": "2014-11-06",
+            "size": 4.369999885559082,
+            "title": "Interstellar"
+        },
+        {
+            "cast": [
+                "Domhnall Gleeson",
+                "Oscar Isaac",
+                "Alicia Vikander",
+                "Sonoya Mizuno",
+                "Chelsea Li"
+            ],
+            "classType": "movie",
+            "description": "Tra tutti gli impiegati del grande motore di ricerca per cui lavora, Caleb è stato scelto per il prestigioso invito nella residenza del mitologico fondatore della società e inventore dell'algoritmo di ricerca. Arrivato in una zona a metà tra la magione irraggiungibile (lo porta un elicottero privato che si ferma diversi chilometri prima del primo edificio) e il rifugio zen, Caleb comprende di essere stato scelto da Nathan per un importante esperimento. Da decenni infatti Nathan è al lavoro sulla costruzione di un'intelligenza artificiale e Caleb deve testarla per capire se abbia raggiunto o meno il suo obiettivo. Il modello attuale con cui Caleb si confronta si chiama Ava, ha forma umanoide, pelle e circuiti, ragiona ed è conscia del suo status. Dopo i primi giorni Caleb comprende però che c'è qualcosa che non va, le frequenti ubriacature del capo, i moltissimi luoghi della magione in cui non può entrare e alcune strane confessioni di Ava compongono un mosaico più inquietante di quel che non sembrasse all'inizio.",
+            "director": "Alex Garland",
+            "duration": "01:48:00",
+            "genre": "Drammatico, Fanstacienza, Thriller",
+            "imagePath": "media/exMachina.jpg",
+            "insertionDate": "2025-02-25",
+            "mediaPath": "media/exMachinaTrailer.mp4",
+            "publicationDate": "2015-07-30",
+            "size": 6.130000114440918,
+            "title": "Ex Machina"
+        },
+        {
+            "artist": "Loksii",
+            "classType": "song",
+            "description": "",
+            "duration": "00:02:11",
+            "genre": "Elegant, Ambience, Emotional",
+            "imagePath": "media/FlowImg.jpg",
+            "insertionDate": "2025-02-25",
+            "mediaPath": "media/Flow.mp3",
+            "publicationDate": "2024-05-27",
+            "size": 4,
+            "title": "Flow"
+        },
+        {
+            "author": "Richard Dawkins",
+            "classType": "book",
+            "description": "Pubblicato per la prima volta nel Regno Unito nel 1976, Il gene egoista ha modificato drasticamente il modo con cui gli scienziati – ma anche i non “addetti ai lavori” – leggono la storia dell’evoluzione. Il nocciolo centrale del saggio è oggi parte fondante dell’insegnamento della biologia in tutto il mondo, una logica derivazione del darwinismo che ha scelto di cambiare prospettiva, concentrandosi non sul singolo organismo ma osservando la natura dal punto di vista del gene. La deduzione scientifica è, per dirla con l’immaginifico linguaggio dell’autore, che noi siamo «macchine da sopravvivenza, robot semoventi programmati ciecamente per conservare quelle molecole egoiste note sotto il nome di geni».Rivolto a tre tipi di lettori – il profano, lo studente, l’esperto -, questo libro è pensato per stimolare con ironia e l’intelligenza di chiunque si chieda qual è il posto dell’uomo nell’universo. Un saggio imprescindibile che riesce a semplificare e rendere accessibili complicati concetti scientifici, senza che ne vada perduta la sorprendente essenza.",
+            "genre": "Storia, Tecnologia, Scienze",
+            "imagePath": "media/IlGeneEgoista.jpg",
+            "insertionDate": "2025-02-27",
+            "pages": "408",
+            "publicationDate": "2022-04-01",
+            "title": "Il gene egoista. La parte immortale di ogni essere vivente"
+        },
+        {
+            "author": "Dan Brown",
+            "classType": "book",
+            "description": "Robert Langdon è a Firenze. Cosa decisamente normale per uno studioso come lui, esperto di simbologia e appassionato interprete del testo dantesco, che nel capoluogo toscano è di casa. Ma di \"normale\" questa volta sembra esserci ben poco. Il professore di Harvard, infatti, si sveglia in una stanza d'ospedale, stordito, sedato, ferito alla testa, gli abiti insanguinati. Ricorda a malapena come si chiama e non sa come è arrivato a Firenze. Sa solo che qualcuno ha cercato di ucciderlo, ma chi? E perché? Barcollante, la mente invasa da apparizioni mostruose della Morte Nera che flagellò l'Europa medievale e da simboli criptici connessi alla prima cantica della Commedia dantesca, Langdon si accorge di essere nel mirino di un'ambigua organizzazione, e sa che deve scappare. Da tutti. Ha una sola traccia per risolvere l'enigma che lo riguarda e salvarsi la vita: le terzine di Dante.",
+            "genre": "Giallo, Thriller",
+            "imagePath": "media/Inferno.jpg",
+            "insertionDate": "2025-02-27",
+            "pages": "528",
+            "publicationDate": "2022-01-14",
+            "title": "Inferno"
+        },
+        {
+            "classType": "generalItem",
+            "description": "Gibson Custom Shop Les Paul Class 5 2010 Orange Tiger",
+            "imagePath": "media/LesPaul.jpeg",
+            "insertionDate": "2025-02-27",
+            "name": "Chitarra LesPaul"
+        },
+        {
+            "author": "Oscar Wilde",
+            "classType": "book",
+            "description": "Dorian Gray, un giovane di straordinaria bellezza, si è fatto fare un ritratto da un pittore. Ossessionato dalla paura della vecchiaia, ottiene, con un sortilegio, che ogni segno che il tempo dovrebbe lasciare sul suo viso, compaia invece solo sul ritratto. Avido di piacere, si abbandona agli eccessi più sfrenati, mantenendo intatta la freschezza e la perfezione del suo viso. Poiché Hallward, il pittore, gli rimprovera tanta vergogna, lo uccide. A questo punto il ritratto diventa per Dorian un atto d'accusa e in un impeto di disperazione lo squarcia con una pugnalata. Ma è lui a cadere morto: il ritratto torna a raffigurare il giovane bello e puro di un tempo e a terra giace un vecchio segnato dal vizio. Prefazione di Aldo Busi.",
+            "genre": "Classici",
+            "imagePath": "media/IlRitrattodiDorianGray.jpg",
+            "insertionDate": "2025-02-28",
+            "pages": "272",
+            "publicationDate": "1890-07-01",
+            "title": "Il Ritratto di Dorian Gray"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+/*
+    COLORS:
+    #1A1A19     black
+    #3c3c3c     dark grey
+    #646464     light grey
+    #F9F8F4     white (writings)
+    #F9BE08     yellow/orange
+    #575708     dark yellow
+    #EFD30B     pure yellow (buttons)
+*/
+
+QWidget{
+    background-color: #1A1A19;
+    color: #F9F8F4;
+}
+
+
+QLineEdit{
+    background-color: #646464;
+    color: #F9F8F4;
+    padding: 3px;
+    padding-right: 10px;
+    border: 2px solid #F9BE08;
+    border-radius: 8px;
+}
+
+QTextEdit{
+    background-color: #646464;
+    color: #F9F8F4;
+    padding: 4px;
+    border: 2px solid #F9BE08;
+    border-radius: 8px;
+}
+
+QDateTimeEdit{
+    background-color: #646464;
+    color: #F9F8F4;
+    border: 2px solid #F9BE08;
+    border-radius: 8px;
+}
+
+
+QPushButton{
+    background-color: #EFD30B;
+    border: 2px solid #EFD30B;
+    color: black;
+    padding : 7px;
+    border-radius: 10px;
+}
+
+QPushButton:enabled:hover{
+    background-color: #575708;
+    color: #F9F8F4;
+}
+
+QPushButton:pressed{
+    border-width: 0px;
+}
+
+QComboBox{
+   background-color: #646464;
+   border: 2px solid #EFD30B;
+   padding: 2px;
+   border-radius: 2px;
+}
+
+QComboBox QAbstractItemView{
+    background-color:  #646464;
+    border: 1px solid #3c3c3c;
+    color: black;
+}
+
+QComboBox QAbstractItemView::item:hover, QComboBox QAbstractItemView::item:selected{
+    background-color: #3c3c3c;
+    border: 1px solid #EFD30B;
+}
+
+QDateTimeEdit{
+    height: 20px;
+}
+
+sideBar{
+    background-color: #3c3c3c;
+    border: 1px solid #1A1A19;
+
+}
+
+toolBar{
+    background-color: #3c3c3c;
+    border: 1px solid #1A1A19;
+
+}
+
+sideBar QLabel{
+    background-color: #3c3c3c;
+}
+
+QScrollBar::handle:vertical{
+    background-color: #3c3c3c;
+    border: 1px solid #F9F8F4;
+}
+
+QProgressBar{
+    background-color: #3c3c3c;
+    border: 1px solid  #F9BE08;
+    height: 20px;
+    border-radius: 3px;
+}
+
+QProgressBar::chunk{
+    background-color:  #EFD30B;
+    border-radius: 3px;
+}
+
+QListWidget{
+    background-color: #646464;
+    color: #F9F8F4;
+    padding: 3px;
+    border: 2px solid #F9BE08;
+    border-radius: 8px;
+}
+
+QListWidget::item:hover, QListWidget::item:selected{
+    background-color: #3c3c3c;
+    border: 1px solid #EFD30B;
+}

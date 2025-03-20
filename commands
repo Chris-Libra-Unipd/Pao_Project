@@ -1,0 +1,23 @@
+TERMINAL COMMANDS:
+
+sudo apt-get update
+sudo apt-get install qt6-multimedia-dev
+
+
+TO ADD TO THE .PRO:
+
+INCLUDEPATH += /usr/include/x86_64-linux-gnu/qt6 /usr/include/x86_64-linux-gnu/qt6/QtMultimedia /usr/include/x86_64-linux-gnu/qt6/QtMultimediaWidgets.
+
+QT += widgets multimedia multimediawidgets
+
+
+
+WARNINGS WHEN TRYING TO PLAY A VIDEO:
+
+qt.multimedia.player: Warning: "No decoder available for type 'video/x-h264, stream-format=(string)avc, alignment=(string)au, level=(string)3, 
+profile=(string)main, codec_data=(buffer)014d401effe1001b674d401ee8805017fcb80b5010101400001d7c0005d8e03c58b44801000468ebef20, width=(int)640,
+height=(int)360, pixel-aspect-ratio=(fraction)1/1'."
+
+qt.multimedia.player: Warning: "No decoder available for type 'audio/mpeg, mpegversion=(int)4, framed=(boolean)true, stream-format=(string)raw,
+level=(string)2, base-profile=(string)lc, profile=(string)lc, codec_data=(buffer)12100000000000000000000000000000, rate=(int)44100, channels=(int)2'."
+
